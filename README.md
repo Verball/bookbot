@@ -1,2 +1,2 @@
 # bookbot
-Project to get statistical info from a book
+BookBot is my first project!
